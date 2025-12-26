@@ -19,6 +19,3 @@ The program randomly generates a number, and the player needs to guess it correc
 ```bash
 python main.py
 ```
-
-## 📸 Screenshot
-![Screenshot](https://raw.githubusercontent.com/YOUR-USERNAME/Number-Guessing-Game-Python/main/screenshot.PNG)
