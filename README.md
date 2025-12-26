@@ -21,4 +21,4 @@ python main.py
 ```
 
 ## 📸 Screenshot
-![Screenshot](screenshot.PNG)
+(screenshot.PNG)
