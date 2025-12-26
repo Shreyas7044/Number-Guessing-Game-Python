@@ -21,4 +21,4 @@ python main.py
 ```
 
 ## 📸 Screenshot
-![Screenshot](./screenshot.PNG)
+![Screenshot](https://raw.githubusercontent.com/YOUR-USERNAME/Number-Guessing-Game-Python/main/screenshot.PNG)
