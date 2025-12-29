@@ -20,4 +20,4 @@ The program randomly generates a number, and the player needs to guess it correc
 python main.py
 ```
 ## 🖼 Application Screenshot
-![Application Screenshot](NumberGuessingGame-Python/screenshot.PNG)
+![Application Screenshot](screenshot.png)
