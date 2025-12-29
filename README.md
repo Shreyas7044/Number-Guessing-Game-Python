@@ -19,3 +19,5 @@ The program randomly generates a number, and the player needs to guess it correc
 ```bash
 python main.py
 ```
+## 🖼 Application Screenshot
+![Application Screenshot](screenshot.png)
